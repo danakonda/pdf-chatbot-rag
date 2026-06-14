@@ -11,3 +11,8 @@
 -ChromaDB
 -Sentence Transformers
 -Transformers
+-streamlit
+##run
+ uvicorn app:app  --reload
+ streamlit run frontend.py
+ 
